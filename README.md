@@ -1,10 +1,6 @@
-# Projeto FullStack - Ecglobal
+# Projeto FullStack (Back - End)- Ecglobal
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width=60 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" width=60 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width=60/>
-
-
-
-
 
 Uma API que foi utilizada Node, Express e Prisma para mostrar Usuários e Posts feitos por eles.
 
