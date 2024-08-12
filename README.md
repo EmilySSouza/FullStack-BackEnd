@@ -1,4 +1,4 @@
-# Projeto FullStack (Back - End)- Ecglobal
+# Projeto FullStack (Back-End)- Ecglobal
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width=60 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" width=60 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" width=60/>
 
